@@ -10,6 +10,7 @@ class Program
         Print("new test");
 
         int x = 5;
+        int y = 67;
     }
 
     public static void Print(string msg)
