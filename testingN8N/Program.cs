@@ -8,6 +8,8 @@ class Program
         Print("Hello World");
 
         Print("new test");
+
+        int x = 5;
     }
 
     public static void Print(string msg)
