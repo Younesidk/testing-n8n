@@ -6,6 +6,8 @@ class Program
     public static void Main()
     {
         Print("Hello World");
+
+        Print("new test");
     }
 
     public static void Print(string msg)
