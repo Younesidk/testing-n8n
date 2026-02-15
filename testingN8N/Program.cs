@@ -5,17 +5,12 @@ class Program
 
     public static void Main()
     {
-        Console.WriteLine();
-        Console.WriteLine("idk testing idk idk idk");
+        Print("Hello World");
+    }
 
-        int x = 1 + 2;
-        Console.WriteLine(x);
-
-        int y = x + 5;
-        Console.WriteLine(y);
-
-        int z = x + y;
-        Console.WriteLine(z);
+    public static void Print(string msg)
+    {
+        System.Console.WriteLine(msg);
     }
     
 }
