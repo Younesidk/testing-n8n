@@ -12,6 +12,8 @@ class Program
         int x = 5;
         int y = 67;
 
+
+        int z = 676767;
     }
 
     public static void Print(string msg)
