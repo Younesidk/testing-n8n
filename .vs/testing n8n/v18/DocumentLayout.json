@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\youne\\OneDrive\\Desktop\\testing n8n\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{548E1862-28D9-1C4F-8CA3-627AA46B9910}|testingN8N\\testingN8N.csproj|c:\\users\\youne\\onedrive\\desktop\\testing n8n\\testingn8n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{548E1862-28D9-1C4F-8CA3-627AA46B9910}|testingN8N\\testingN8N.csproj|solutionrelative:testingn8n\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\youne\\OneDrive\\Desktop\\testing n8n\\testingN8N\\Program.cs",
+              "RelativeDocumentMoniker": "testingN8N\\Program.cs",
+              "ToolTip": "C:\\Users\\youne\\OneDrive\\Desktop\\testing n8n\\testingN8N\\Program.cs",
+              "RelativeToolTip": "testingN8N\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T10:55:38.093Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
