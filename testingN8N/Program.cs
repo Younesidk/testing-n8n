@@ -14,6 +14,9 @@ class Program
 
 
         int z = 676767;
+
+
+        double xyz = 1010.67;
     }
 
     public static void Print(string msg)
