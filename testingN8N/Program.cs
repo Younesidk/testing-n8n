@@ -15,7 +15,6 @@ class Program
 
         int z = 676767;
 
-        Console.WriteLine("idk");
     }
 
     public static void Print(string msg)
