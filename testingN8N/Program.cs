@@ -15,6 +15,7 @@ class Program
 
         int z = 676767;
 
+        List<int> idk = new();
 
     }
 
